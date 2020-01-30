@@ -24,7 +24,9 @@ public class Github {
        else {
     	   System.out.println(" not a amstrong number");
 	}
-		
+       
+       
+       System.out.println(" i am gobinath ");System.out.println(" i am in  chennai ");	
 		
 }
 
